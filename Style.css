@@ -4,6 +4,7 @@ body {
     	margin: 0;
 	height: 100vh;
 	overflow-x: hidden;
+	padding-top: 50px;
 }
 
 h1, h2, h3, h4{
@@ -54,4 +55,5 @@ p.instructions{
 
 .webgl-content{
 	margin-top: 500px !important;
+	margin-bottom: 200px !important;
 }
