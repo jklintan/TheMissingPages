@@ -51,3 +51,7 @@ p.instructions{
 	font-size: 0.8rem;
 	margin-bottom: 10px;
 }
+
+.webgl-content{
+	margin-top: 1000px !important;
+}
