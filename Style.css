@@ -51,4 +51,6 @@ p.instructions{
 	margin-bottom: 10px;
 }
 
-
+.webgl-content{
+	margin-top: 1000px !important;
+}
