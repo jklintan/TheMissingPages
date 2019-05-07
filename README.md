@@ -11,5 +11,7 @@ Note! The game only works 100% if played in fullscreen mode!
 
 # Responsibilities: 
 Both: Story Design
+
 Josefine: Coding and Level Design
+
 Embla: Sprites and Design
