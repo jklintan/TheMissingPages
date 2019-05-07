@@ -28,8 +28,12 @@ a:hover{
 	
 }
 
-h1, h3{
+h1, h3, h2{
 	margin-bottom: 3px !important;
+}
+
+h2{
+	font-size: 14px;
 }
 
 p.instructions{
