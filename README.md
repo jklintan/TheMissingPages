@@ -1,6 +1,7 @@
 # TheMissingPages
 A 2D game built in Unity during the Skyfox Game Jam 4-5/5 2019 by me (Josefine Klintberg) and Embla Westman. 
 <br/>
+<br/>
 <img src="images/theMissingPages.PNG" width="100%"/>
 <br/>
 <br/>
@@ -18,7 +19,7 @@ Josefine: Coding and Level Design
 Embla: Sprites and Design
 <br/>
 <br/>
-Some screen shots from the game can be seen below: 
+# Screen shots from the game
 <br/>
 <img src="images/worldOfBooks.PNG" width="100%"/>
 <img src="images/worldOfBooks3.PNG" width="100%"/>
